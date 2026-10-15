@@ -21,7 +21,7 @@ I love turning crazy ideas into real stuff — games, tools, bots, weird experim
 
 📊 **Stats:**
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=dhaern&show_icons=true&theme=tokyonight&count_private=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhaern&layout=compact&theme=tokyonight" height="165" />
 </p>
