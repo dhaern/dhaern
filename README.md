@@ -28,6 +28,6 @@ I'm into computers, video games and astronomy. I enjoy figuring out how things w
 📊 **Stats:**
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhaern&show_icons=true&theme=tokyonight&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhaern&layout=compact&theme=tokyonight" height="165" />
+  <img src="./profile/stats.svg" height="165" />
+  <img src="./profile/top-langs.svg" height="165" />
 </p>
