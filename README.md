@@ -30,4 +30,6 @@ I'm into computers, video games and astronomy. I enjoy figuring out how things w
 <p align="left">
   <img src="./profile/stats.svg" height="165" />
   <img src="./profile/top-langs.svg" height="165" />
+  <br />
+  <a href="https://tokscale.ai/u/dhaern"><img src="https://tokscale.ai/api/embed/dhaern/svg?graph=1" width="700" alt="Tokscale stats" /></a>
 </p>
